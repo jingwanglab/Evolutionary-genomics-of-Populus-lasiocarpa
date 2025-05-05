@@ -1,0 +1,7 @@
+genotypename:  /usr_storage/lzq/work/dyy/strcture_filt/plink_0.5_ma0.01_prunein/plas_0.4.bed
+snpname: /usr_storage/lzq/work/dyy/strcture_filt/plink_0.5_ma0.01_prunein/plas_0.4.bim
+indivname: /usr_storage/lzq/work/dyy/strcture_filt/pca/population.ind
+numoutevec: 30
+numoutlieriter: 0
+evecoutname: /usr_storage/lzq/work/dyy/strcture_filt/pca/plas.pca.evec
+evaloutname: /usr_storage/lzq/work/dyy/strcture_filt/pca/plas.pca.eval
